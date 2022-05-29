@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Jogo"
+        android:id="@+id/item_game"
+        android:icon="@drawable/ic_game"
+        />
+    <item android:title="Vitórias"
+        android:id="@+id/item_win"
+        android:icon="@drawable/ic_win"
+        />
+    <item android:title="Derrotas"
+        android:id="@+id/item_lose"
+        android:icon="@drawable/ic_lose"
+        />
+    <item android:title="Tempo"
+        android:id="@+id/item_time"
+        android:icon="@drawable/ic_time"
+        />
+</menu>
